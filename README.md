@@ -3,3 +3,4 @@ This project is an e-dictionary program made through Windowbuilder for help stud
 
 This program uses Eclipse Windowbuilder for the front end, with the DB Browser for SQLite program as the back-end used for database storage. A relational database is implemented.
 
+Please assess the final product through the following link: https://drive.google.com/drive/u/0/folders/1EFRIa_Wr2GGQk9rsKD9Zjm-MT-dkcW01
