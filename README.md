@@ -41,4 +41,8 @@ After that, you open the SyntaxDictionary.bat and then it is all completed!
 
 `SQL error: database is locked`
 
+It usually means that you open the SQL database with the system. To solve this problem, close the database and re-run the system.
+
+(2) ITGS is replaced by "Digital Society" in 2024. The rules of the IA for Digital Society may vary with the ITGS.
+
 
