@@ -25,7 +25,9 @@ After download, go to Product >> SyntaxDictionary.bat. Change SyntaxDictionary.b
 
 and convert the bat that you have done that.
 
+You can complete the next step in one of the two ways:
 
+(1) Extract the Product folder into D-disk, OR
 
 To access the File:
 
