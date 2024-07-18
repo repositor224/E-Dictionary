@@ -11,6 +11,8 @@ The four sections of the dictionary are cover_page (doc), documentation, product
   
 - `The documentation consists of a series of planning files involving communication between me and my client.`
 
+- `The product folder includes the complete project with front end and back end (DB Browser for Sqlite)
+
 ## Using the E-Dictionary
 
 The first step you will need to do is to clone the repository using the following command:
@@ -27,7 +29,11 @@ and convert the bat that you have done that.
 
 You can complete the next step in one of the two ways:
 
-(1) Extract the Product folder into D-disk, OR
+`(1) Extract the Product folder (folder with name "product") into D-disk, or`
+
+`(2) Find the file "Sqlite.java" and input your file directory in the code inside file`
+
+After that, you open the SyntaxDictionary.bat and then it is all completed!
 
 To access the File:
 
