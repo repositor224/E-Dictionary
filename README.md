@@ -35,10 +35,10 @@ You can complete the next step in one of the two ways:
 
 After that, you open the SyntaxDictionary.bat and then it is all completed!
 
-To access the File:
+## Note for IB Student and/or Developer
 
-1. Change the File Directory in the Database Implementation File into the File Directory you want
-2. Open the Batch File located inside the "Product" Folder
+(1) If you encounter the following error while running the product:
 
-Please assess the final product through the following link: https://drive.google.com/drive/u/0/folders/1EFRIa_Wr2GGQk9rsKD9Zjm-MT-dkcW01
+`SQL error: database is locked`
+
 
