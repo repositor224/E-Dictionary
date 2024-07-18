@@ -7,9 +7,9 @@ This program uses Eclipse Windowbuilder for the front end, with the DB Browser f
 
 The four sections of the dictionary are cover_page (doc), documentation, product and screencast:
 
-- `The screencast is a demo of how the product runs. It includes a demo of both the Front End and the backend (Sqlite Database)
+- `The screencast is a demo of how the product runs. It includes a demo of both the Front End and the backend (Sqlite Database)`
   
-- `The documentation consists of a series of 
+- `The documentation consists of a series of planning files involving communication between me and my client.`
 
 ## Using the E-Dictionary
 
@@ -23,7 +23,7 @@ After download, go to Product >> SyntaxDictionary.bat. Change SyntaxDictionary.b
 
 `JavaRunningEnvironment\bin\java.exe -jar SyntaxDictionary.jar`
 
-and convert the bat that you have done that
+and convert the bat that you have done that.
 
 
 
