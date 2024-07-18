@@ -3,6 +3,30 @@ This project is an e-dictionary program made through Windowbuilder for help stud
 
 This program uses Eclipse Windowbuilder for the front end, with the DB Browser for SQLite program as the back-end used for database storage. A relational database is implemented.
 
+## Breakdown
+
+The four sections of the dictionary are cover_page (doc), documentation, product and screencast:
+
+- `The screencast is a demo of how the product runs. It includes a demo of both the Front End and the backend (Sqlite Database)
+  
+- `The documentation consists of a series of 
+
+## Using the E-Dictionary
+
+The first step you will need to do is to clone the repository using the following command:
+
+`-git clone https://github.com/repositor224/E-Dictionary.git`
+
+If you receive the error "Pip is not recognized" on CMD, go download Git!
+
+After download, go to Product >> SyntaxDictionary.bat. Change SyntaxDictionary.bat into txt and input the following text into the system:
+
+`JavaRunningEnvironment\bin\java.exe -jar SyntaxDictionary.jar`
+
+and convert the bat that you have done that
+
+
+
 To access the File:
 
 1. Change the File Directory in the Database Implementation File into the File Directory you want
